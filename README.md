@@ -1,4 +1,4 @@
-# Hyperblog1
+# Hyperblog1 💚
 Un blog increible  para el curso de git y github
 >El curso de git y github es lo que me  hacia falta para triplicar mi salario y lanzarme  a la industria deltejido de lana sintetica con machine learning
 
