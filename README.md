@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El flujo de trabajo github
 * El verdadero  amor por las buenas practicas
 * Trucos muy locos del profesor
+* Creado por el increible anderson barajas
 
 Y como recordatorio: "**ESTE REAME ES UN CHISTE**" Diseñado para el  ejemplo.si llegas aca  NO LO TOMES ENSERIO  y mejor ve a ver el curso
